@@ -1,0 +1,16 @@
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\chromedriver.exe
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\chromedriver-license.txt
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\Selenium Tutorial.exe.config
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\Selenium Tutorial.exe
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\Selenium Tutorial.pdb
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\nunit.framework.dll
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\WebDriver.dll
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\WebDriver.Support.dll
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\nunit.framework.pdb
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\nunit.framework.xml
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\WebDriver.xml
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\bin\Debug\WebDriver.Support.xml
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\obj\Debug\Selenium Tutorial.csproj.CopyComplete
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\obj\Debug\Selenium Tutorial.exe
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\obj\Debug\Selenium Tutorial.pdb
+C:\Users\rparso2\source\repos\Selenium Tutorial\Selenium Tutorial\obj\Debug\Selenium Tutorial.csprojAssemblyReference.cache
